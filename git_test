@@ -1,1 +1,3 @@
 console.log("hello world ")
+
+Rawr.console('Boom ba boom')
